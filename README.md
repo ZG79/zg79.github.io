@@ -1,13 +1,13 @@
 # Reading Notes
-## Code 201 - Foundations of Software Development
-Table of contents
-<a href="https://www.example.com"> What is HTML </a>
-## Html
-<div>
-<p> New Page <p/>
-≈
-</div> 
 
-## CSS
-## Basic JavaScript
-## Advanced JavaScript
+** Zeegii Ulziibaatar's notes from Code Fellow courses. 
+
+## Code 201 Reading Notes
+
+### Table of Contents 
+
+- Module 1: Introduction to Web Development 
+  - [Class - 01.md] ()    
+- Module 2: The DOM, and Domain Modeling with Object Literals
+- Module 3: Libraries and L:ocal Storage
+- Module 4: Project Work 
