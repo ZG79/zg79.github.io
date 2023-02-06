@@ -7,6 +7,9 @@
 ### Things I want to more about
   
   - Questions from Module-01
+    - learn more about accessibility in HTML and CSS, how to create more UX friendly website. 
+    - The most commonly used sematics. 
+    - How to increase SEO using metadata. 
 
 ### Table of Contents 
 
