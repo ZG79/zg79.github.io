@@ -73,11 +73,22 @@ Some common examples of when to use an ordered list include:
 
 The four parts of an HTML element's box, as referred to by the "box model," are:
 
-Content: This is the actual content of the element, such as text or images. The content is surrounded by padding.
+- Content: This is the actual content of the element, such as text or images. The content is surrounded by padding.
 
-Padding: This is the area between the content and the border. It provides space between the content and the border, giving the content room to breathe.
+- Padding: This is the area between the content and the border. It provides space between the content and the border, giving the content room to breathe.
 
-Border: The border is the line that surrounds the padding and the content. It provides a visual delimiter between the content and the background.
+- Border: The border is the line that surrounds the padding and the content. It provides a visual delimiter between the content and the background.
 
-Margin: The margin is the space outside of the border. It provides space between the element and other elements on the page, creating separation and clear boundaries.
+- Margin: The margin is the space outside of the border. It provides space between the element and other elements on the page, creating separation and clear boundaries.
   
+## What data types can you store inside of an Array?
+  
+- Numbers (integers, floating-point numbers)
+- Strings (textual data)
+- Booleans (true/false values)
+- Objects (collections of key-value pairs)
+- Arrays (nested arrays)
+- Functions (blocks of code that can be executed)
+- Null and undefined values
+  
+  ## 
