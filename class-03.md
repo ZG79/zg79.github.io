@@ -1,4 +1,4 @@
-## HTML
+# HTML
 
 ## When should you use an unordered list in your HTML document?
 An unordered list in HTML is used to represent a list of items that don't have a specific order or ranking. This type of list is usually displayed with bullet points.
@@ -64,6 +64,8 @@ Some common examples of when to use an ordered list include:
 
 1. Using CSS: You can use the CSS list-style-type property to change the numbering type of an ordered list. 
 2. Using the type attribute: You can also change the numbering type of an ordered list by using the type attribute on the <ol> element. The type attribute accepts values such as a, A, i, and I, which correspond to lowercase letters, uppercase letters, lowercase Roman numerals, and uppercase Roman numerals, respectively. 
+  
+  # CSS
 
   ## Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?
   
@@ -80,6 +82,8 @@ The four parts of an HTML element's box, as referred to by the "box model," are:
 - Border: The border is the line that surrounds the padding and the content. It provides a visual delimiter between the content and the background.
 
 - Margin: The margin is the space outside of the border. It provides space between the element and other elements on the page, creating separation and clear boundaries.
+  
+  # JavaScript
   
 ## What data types can you store inside of an Array?
   
