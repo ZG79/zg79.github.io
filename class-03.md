@@ -91,4 +91,45 @@ The four parts of an HTML element's box, as referred to by the "box model," are:
 - Functions (blocks of code that can be executed)
 - Null and undefined values
   
-  ## 
+  ## Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
+  
+// const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];
+  
+  Yes, people is a valid array, we need to use nested array method to access the value. For example if I need to access 'Smith' I will write: 
+  
+  people[1][0]; 
+  
+  ## List five shorthand operators for assignment in javascript and describe what they do.
+  - +=: The += operator adds the right operand to the left operand and assigns the result to the left operand. 
+  - -=: The -= operator subtracts the right operand from the left operand and assigns the result to the left operand. 
+  - *=: The *= operator multiplies the left operand by the right operand and assigns the result to the left operand.
+  - /=: The /= operator divides the left operand by the right operand and assigns the result to the left operand. 
+  - %=: The %= operator calculates the remainder of dividing the left operand by the right operand and assigns the result to the left operand.
+  
+  
+  ## Read the code below and evaluate the last expression and explain what the result would be and why.
+
+ let a = 10;
+  
+ let b = 'dog';
+  
+ let c = false;
+  
+
+ // evaluate this
+ (a + c) + b; 
+  
+  variable a declared by let and assigned to number of 10. variable b declared by let assigned to string dog. variable c declared by let and assigned to bvoolean value false. 
+  
+  The evaluation of  (a + c) + b is invalid because all of the variables are different datatypes. 
+  
+  ## Describe a real world example of when a conditional statement should be used in a JavaScript program.
+  
+  If I designed a website which need to collect the user's data then I can use the conditional statement. For example: The website will only run if type yes to a data retrieving questions.  
+  
+  ## Give an example of when a Loop is useful in JavaScript.
+  
+  If I need to find the total of the array numbers, or if I'm looking for specific word in the array I can use the loop to iterate the arrays. 
+  
+  
+  
