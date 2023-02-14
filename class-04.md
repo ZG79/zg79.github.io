@@ -39,7 +39,7 @@ Normal flow can be modified by using CSS positioning properties such as position
   
   ### <em> Static </em> positioning is the default for every html element.
   
-  ## Name a few advantages to using absolute positioning on an element.
+  ### Name a few advantages to using absolute positioning on an element.
   
  - Precise control over placement: Absolute positioning allows you to precisely control the placement of an element on a page, regardless of its surrounding content. You can position an element relative to any parent element with a position other than static, or relative to the viewport itself.
 
@@ -49,7 +49,7 @@ Normal flow can be modified by using CSS positioning properties such as position
 
 - Animation and interactivity: Absolute positioning can be used to create dynamic, interactive web experiences. By positioning elements absolutely and manipulating their position, size, and other properties with CSS and JavaScript, you can create animations, drag-and-drop interfaces, and other interactive features.
   
-  ## What is a key difference between fixed positioning and absolute positioning?
+  ### What is a key difference between fixed positioning and absolute positioning?
   
   The key difference between fixed and absolute positioning is how they are positioned relative to the viewport.
 
@@ -62,3 +62,13 @@ Another key difference between fixed and absolute positioning is that a fixed el
   For responsive design, it's generally better to use relative positioning techniques, such as relative and static positioning, rather than absolute or fixed positioning. This is because relative positioning is more flexible and responsive to changes in screen size and orientation. 
   
    Using relative positioning techniques like relative or static positioning, in combination with flexible layout techniques like CSS Grid or Flexbox, can help you create more responsive, adaptive designs that adjust to different screen sizes and device types.
+  
+  ## JavaScript
+  
+  ### Describe the difference between a function declaration and a function invocation.
+  - A function declaration is a statement that defines a function and its parameters, but does not actually execute it.
+  - A function invocation, on the other hand, is the act of calling a function and causing it to execute. When a function is invoked, its code is executed and the result, if any, is returned.
+  
+  ### What is the difference between a parameter and an argument?
+  
+  a parameter is a variable that is defined in a function's declaration, while an argument is the value that is passed to the function when it is called.
