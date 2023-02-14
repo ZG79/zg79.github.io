@@ -10,6 +10,8 @@
     - learn more about accessibility in HTML and CSS, how to create more UX friendly website. 
     - The most commonly used sematics. 
     - How to increase SEO using metadata. 
+    - CSS box model usage. 
+    - Git branching
 
 ### Table of Contents 
 
@@ -24,3 +26,11 @@
   - [Object-Oriented Programming with Constructor Functions: HTML Tables](class-07.md) 
 - Module 3: Libraries and L:ocal Storage
 - Module 4: Project Work 
+
+
+
+ ##### References: 
+  
+  https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works
+  https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+  https://chat.openai.com/chat
