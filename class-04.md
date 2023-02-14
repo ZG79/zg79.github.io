@@ -72,3 +72,12 @@ Another key difference between fixed and absolute positioning is that a fixed el
   ### What is the difference between a parameter and an argument?
   
   a parameter is a variable that is defined in a function's declaration, while an argument is the value that is passed to the function when it is called.
+  
+  ## Miscellaneous 
+  
+  ### Pair programming
+  
+  Pair programming commonly involves two roles: the Driver and the Navigator. The Driver is the programmer who is typing and the only one whose hands are on the keyboard. Handling the “mechanics” of coding, the Driver manages the text editor, switching files, version control, and—of course writing—code. The Navigator uses their words to guide the Driver but does not provide any direct input to the computer. The Navigator thinks about the big picture, what comes next, how an algorithm might be converted in to code, while scanning for typos or bugs. The Navigator might also utilize their computer as a second screen to look up solutions and documentation, but should not be writing any code.
+  
+  I picked "Engaged collaboration" and "Work environment readiness" for 2 benefits of pair programming. 
+  The reasons I chose the above two skills are because I need to grow in these specific areas in order to work effectively with other developers. I need to expand my technical communication skills and my tech-related vocabulary. I appreciate the fact that our solutions rely on each other, which means that there will be more responsibilities to complete the assignments on time, and less room for procrastination. 
