@@ -24,6 +24,8 @@
 - Module 2: The DOM, and Domain Modeling with Object Literals
   - [The DOM, Domain Modeling, and Introduction to Objects](class-06.md) 
   - [Object-Oriented Programming with Constructor Functions: HTML Tables](class-07.md) 
+  - [Layout with CSS](class-08.md)
+  - [Forms and Events](class-09.md)
 - Module 3: Libraries and L:ocal Storage
 - Module 4: Project Work 
 
