@@ -26,9 +26,14 @@
   - [Object-Oriented Programming with Constructor Functions: HTML Tables](class-07.md) 
   - [Layout with CSS](class-08.md)
   - [Forms and Events](class-09.md)
-- Module 3: Libraries and L:ocal Storage
+- Module 3: Libraries and Local Storage
+  - [A/V; Accessibility; Math.random()](class-10.md)
+  - [3rd Party Libraries and Documentation](class-11.md)
+  - [Application State with Local Storage API](class-12.md)
+  - [Psyhological Safety](class-13.md)
+  - [Project Kickoff](class-14.md)
 - Module 4: Project Work 
-
+  - [Project Kickoff](project.md)
 
 
  ##### References: 
