@@ -36,5 +36,26 @@ The getContext() method is called on the canvas element and takes one parameter,
 - lineTo(x, y): Draws a line from the current position to the specified point.
 
 ## Chart.js documentation
+### What is Chart.js and how it can be brought into your project?
+  Chart.js is an open-source JavaScript library that allows you to create interactive and responsive charts and graphs for your web applications. It supports various chart types, such as line charts, bar charts, pie charts, scatter charts, and more.  It’s open-source, licensed under the very permissive MIT license , and maintained by an active community. Chart.js is very well suited for large datasets. Such datasets can be efficiently ingested using the internal format so you can skip data parsing and normalization. 
+  
+  I will use it in my Odd Duck project to display the graphics using outside library. 
+  
+  ### List 3 different Chart types you can create using Chart.js.
+  
+ - Line Chart - A line chart displays data points connected by lines, which can be used to show trends over time.
 
+- Bar Chart - A bar chart displays data using horizontal or vertical bars, which can be used to compare different categories of data.
+
+- Pie Chart - A pie chart displays data as slices of a circle, where the size of each slice represents the proportion of the data it represents. Pie charts are useful for showing how different categories contribute to a whole.
+
+### What are some advantages to displaying data via a chart over a table?
+
+Charts can make data easier to understand by presenting it in a visual format. They allow users to quickly identify trends, compare data sets, and communicate insights effectively. Also, charts can be aesthetically pleasing and engaging, which can increase their impact and effectiveness.
+
+### How could Chart.js aid your previously created applications visually?
+
+I can use Chart.js for Salmon Stand project to display it as a chart instead of table, so it's easier for users to see the data. Also, Odd Duck project can really use aesthetic aspect of the chart.js, because it has many different options to display. The bar chart will be much easier to see how many times the pictures have shown than the text. 
+
+  
   
