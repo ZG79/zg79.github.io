@@ -31,8 +31,9 @@
   - [A/V; Accessibility; Math.random()](class-11.md)
   - [3rd Party Libraries and Documentation](class-12.md)
   - [Application State with Local Storage API](class-13.md)
-  - [Psyhological Safety](class-14.md)
-  - [Project Kickoff](class-15.md)
+  - [CSS Transforn](class-14.md)
+  - [Psyhological Safety](class-15.md)
+  - [Project Kickoff](class-16.md)
 - Module 4: Project Work 
   - [Project Kickoff](project.md)
 
