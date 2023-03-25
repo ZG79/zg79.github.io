@@ -36,7 +36,7 @@
   - [Project Kickoff](class-16.md)
 - Module 4: Project Work 
   - [Project Kickoff](project.md)
-
+ - [Concepts to learn deeply](concepts.md)
 
  ##### References: 
   
