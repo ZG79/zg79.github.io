@@ -16,7 +16,7 @@
 ### Table of Contents 
 
 - Module 1: Introduction to Web Development 
-  - [Intoriductory HTML & JavaScript](class-01.md)    
+  - [Introductory HTML & JavaScript](class-01.md)    
   - [Basics of HTML, CSS & JS](class-02.md) 
   - [HTML Lists, Control Flow with JS, and the CSS Box Model](class-03.md) 
   - [JS Functions, Pair Programming, and Intro to CSS Layout](class-04.md) 
